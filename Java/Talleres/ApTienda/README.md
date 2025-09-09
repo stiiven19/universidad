@@ -20,12 +20,21 @@ Aplicación de consola en Java para la gestión de una tienda de películas, des
 
 1. Clona el repositorio:
    ```bash
-   git clone [https://github.com/stiiven19/universidad/Java/Talleres/ApTienda]
-   cd ApTienda
+   # Clona todo el repositorio (recomendado)
+   git clone https://github.com/stiiven19/universidad.git
+   cd universidad/Java/Talleres/ApTienda
+   
+   # O si solo quieres este proyecto
+   # git clone https://github.com/stiiven19/universidad/Java/Talleres/ApTienda.git
+   # cd ApTienda
    ```
 
 2. Compila el proyecto:
    ```bash
+   # Crea el directorio bin si no existe
+   mkdir -p bin
+   
+   # Compila todos los archivos Java
    javac -d bin src/ApTienda/*.java
    ```
 
@@ -86,7 +95,7 @@ Este proyecto fue desarrollado como parte de un taller universitario. Se proporc
 ¡Las contribuciones son bienvenidas! Siéntete libre de enviar un Pull Request o reportar issues.
 
 ## 📧 Contacto
-[steven guerrero] - [stiiven19lol@gmail.com]
+[steven guerrero](mailto:stiiven19lol@gmail.com) - [GitHub](https://github.com/stiiven19)
 
 ---
 
