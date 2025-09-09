@@ -20,7 +20,7 @@ Aplicación de consola en Java para la gestión de una tienda de películas, des
 
 1. Clona el repositorio:
    ```bash
-   git clone [URL_DEL_REPOSITORIO]
+   git clone [https://github.com/stiiven19/universidad/Java/Talleres/ApTienda]
    cd ApTienda
    ```
 
