@@ -1,6 +1,6 @@
 # Aplicaciones Generales con Interfaz Gráfica en Java
 
-Este proyecto contiene una colección de aplicaciones generales con interfaz gráfica desarrolladas en Java, incluyendo herramientas de dibujo, aplicaciones bancarias y más.
+Este proyecto contiene una variedad de aplicaciones generales con interfaz gráfica desarrolladas en Java, incluyendo herramientas de dibujo, aplicaciones bancarias y más.
 
 ## 📂 Estructura del Proyecto
 
@@ -19,9 +19,6 @@ Este proyecto contiene una colección de aplicaciones generales con interfaz gr�
    cd universidad/Java/Talleres/D-GeneralApplications
    ```
 
-2. Abre el proyecto en NetBeans o tu IDE favorito
-
-3. Ejecuta la clase principal del ejercicio que desees probar
 
 ## 🛠 Tecnologías Utilizadas
 
@@ -33,7 +30,7 @@ Este proyecto contiene una colección de aplicaciones generales con interfaz gr�
 ## 📝 Características Destacadas
 
 - **Interfaz MDI**: Manejo de múltiples ventanas internas
-- **Herramientas de Dibujo**: Crea figuras geométricas con el mouse
+- **Herramientas de Dibujo**: Crea figuras geométricas con el mouse(estilo paint)
 - **Widgets Avanzados**: Uso de componentes Swing complejos
 - **Aplicación Bancaria**: Interfaz gráfica para operaciones bancarias básicas
 
@@ -47,5 +44,5 @@ Cada carpeta contiene su propio README con instrucciones específicas de cada ap
 ---
 
 <div align="center">
-  Hecho para el curso de Programación Avanzada
+  Hecho para el curso de Programación
 </div>
