@@ -94,5 +94,5 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para má
 ---
 
 <div align="center">
-  Desarrollado para el curso de Gráficos por Computadora
+  Desarrollado para el curso de programacion
 </div>
