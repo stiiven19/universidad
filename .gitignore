@@ -1,0 +1,83 @@
+# Archivos de Android Studio
+*.iml
+.gradle
+/local.properties
+/.idea/caches/
+/.idea/libraries/
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+/.idea/deploymentTargetDropDown.xml
+/.idea/gradle.xml
+/.idea/jarRepositories.xml
+/.idea/misc.xml
+
+# Archivos generados por el sistema operativo
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Archivos de compilación
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Archivos locales
+local.properties
+
+# Archivos de Gradle
+.gradle/
+build/
+
+# Archivos de Android
+*.apk
+*.ap_
+*.dex
+*.class
+bin/
+gen/
+out/
+
+# Archivos de Kotlin
+*.kotlin_module
+
+# Archivos de entorno
+.env
+
+# Archivos de configuración de Android Studio
+.idea/
+*.iml
+
+# Archivos temporales
+*.swp
+*.swo
+*~
+
+# Archivos de caché
+.cache/
+
+# Archivos de Logs
+*.log
+
+# Archivos de configuración de Android
+*.keystore
+*.jks
+
+# Archivos de configuración de Firebase
+google-services.json
+
+# Archivos de configuración de Google Services
+google-services/
+
+# Archivos de configuración de Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+fastlane/readme.md

@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Estilo para aplicar la fuente Knewave a los elementos de la lista -->
+    <style name="KnewaveTextStyle">
+        <item name="android:fontFamily">@font/knewave</item>
+    </style>
+    <style name="MarqueeText" parent="TextAppearance.AppCompat">
+        <item name="android:singleLine">true</item>\
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+        <item name="android:scrollHorizontally">true</item>
+        <item name="android:focusable">true</item>
+        <item name="android:focusableInTouchMode">true</item>
+        <item name="android:freezesText">true</item>
+    </style>
+
+</resources>

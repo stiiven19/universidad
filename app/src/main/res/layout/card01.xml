@@ -1,0 +1,54 @@
+<!-- res/layout/card_layout.xml -->
+
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cardView"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:cardCornerRadius="8dp"
+    app:cardElevation="4dp"
+    app:cardUseCompatPadding="true">
+
+    <!-- Contenedor vertical -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@color/splash">
+
+        <!-- Imagen -->
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/meditacion2" />
+
+        <!-- Texto -->
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="16dp"
+            android:text="Paso 1: El primer paso para la meditacion es buscar un lugar tranquilo y adecuado, sin interrupciones y lo mas calmado posible, de este modo la meditacion surgira efecto.
+            "
+            android:textColor="@color/white"
+
+            android:textSize="18sp" />
+
+        <!-- Espaciador para separar el texto del botón -->
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="8dp" />
+
+        <!-- Botón al pie de la tarjeta -->
+        <Button
+            android:id="@+id/button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Siguiente paso " />
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label=""
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ProjectA"
+        tools:targetApi="31">
+        <activity
+            android:name=".problemas.ForoActivityB"
+            android:exported="false" />
+        <activity
+            android:name=".problemas.ForoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".problemas.TemporizadorActivity"
+            android:exported="false" />
+        <activity
+            android:name=".reproductor.Reproductor"
+            android:exported="false" />
+        <activity
+            android:name=".problemas.CrearActActivity"
+            android:exported="false" />
+        <activity
+            android:name=".problemas.RabiaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".problemas.DesmotivacionActivity"
+            android:exported="false" />
+        <activity
+            android:name=".problemas.TristezaActivity"
+            android:exported="false"
+            android:label="@string/title_activity_tristeza"
+            android:theme="@style/Theme.ProjectA" />
+        <activity
+            android:name=".problemas.ProductividadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CheckEmailActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AccountRecoveryActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SignUpActivity"
+            android:exported="false" />
+        <activity
+            android:name=".HomeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FirstActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CustomAdapterCards"
+            android:exported="false" />
+        <activity
+            android:name=".tips.Meditacion01"
+            android:exported="false" />
+        <activity
+            android:name=".tips.Meditacion02"
+            android:exported="false" />
+        <activity
+            android:name=".tips.Meditacion03"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
