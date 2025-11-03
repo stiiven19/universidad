@@ -1,0 +1,41 @@
+# Archivos compilados
+*.class
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Archivos de configuración local
+.settings/
+.project
+.classpath
+.factorypath
+
+# Archivos de IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Archivos de NetBeans
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# Archivos de Eclipse
+bin/
+.metadata/
+
+# Archivos de logs
+*.log
+
+# Archivos de dependencias
+target/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db

@@ -1,0 +1,28 @@
+package cw04_drawing;
+
+import java.awt.Graphics;
+import java.util.ArrayList;
+
+import javax.swing.JComponent;
+
+public class DrawingPanel extends JComponent{
+
+	protected ArrayList<Shape> shapes;
+	
+	public DrawingPanel() {
+		shapes=new ArrayList<Shape>();
+		
+	}
+	
+	public void addShape(Shape shape) {
+		shapes.add(shape);
+		repaint();
+	}
+	
+	
+	public void paint(Graphics g) {
+		for(Shape s:shapes) {
+			s.draw(g);
+		}
+	}
+}
