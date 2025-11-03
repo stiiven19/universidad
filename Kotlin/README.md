@@ -46,7 +46,7 @@ Aplicación de bienestar integral para Android desarrollada en Kotlin, diseñada
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/harmony-app.git
+   git clone https://github.com/stiiven19/universidad.git
    ```
 
 2. Configuración de Firebase:
