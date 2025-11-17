@@ -1,0 +1,40 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Package Files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# NetBeans specific files/directories
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# VS Code specific files
+.vscode/
+!.vscode/settings.json
+!.vscode/launch.json
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Project specific
+# Ignorar todos los archivos .ser
+**/*.ser
+
+# Incluir solo este archivo específico
+!grafos/LJCevaluativo.ser
+
+# Otros archivos a ignorar
+nodos.ser
