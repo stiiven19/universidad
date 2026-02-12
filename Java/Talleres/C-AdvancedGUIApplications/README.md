@@ -1,3 +1,6 @@
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+
 # Aplicaciones Avanzadas con Interfaz Gráfica en Java
 
 Este proyecto contiene una colección de aplicaciones avanzadas con interfaz gráfica desarrolladas en Java, que incluyen un reloj digital, un osciloscopio, visualizaciones de gráficos y más.
@@ -13,13 +16,15 @@ Este proyecto contiene una colección de aplicaciones avanzadas con interfaz gr�
 - **ex02_oscilloscope**: Osciloscopio simple
 - **ex03_settings**: Panel de configuración
 
-## 🚀 Cómo ejecutar
+## Instalación
 
-1. Clona el repositorio principal:
+1. Clona el repositorio:
    ```bash
    git clone https://github.com/stiiven19/universidad.git
    cd universidad/Java/Talleres/C-AdvancedGUIApplications
    ```
+
+2. Abre el proyecto en NetBeans
 
 
 ## 🛠 Tecnologías Utilizadas
@@ -36,15 +41,5 @@ Este proyecto contiene una colección de aplicaciones avanzadas con interfaz gr�
 - **Gráficos**: Diversos ejemplos de visualización de datos
 - **Controles Avanzados**: Uso de sliders, selectores de color, etc.
 
-## 📚 Documentación Técnica
-
-Cada carpeta contiene su propio README con instrucciones específicas de cada aplicación.
-
-## 📧 Contacto
-[steven guerrero](mailto:stiiven19lol@gmail.com) - [GitHub](https://github.com/stiiven19)
-
----
-
-<div align="center">
-  Hecho para el curso de Programación Avanzada
-</div>
+## Desarrollado por
+Steven Guerrero - Ingeniero de sistemas

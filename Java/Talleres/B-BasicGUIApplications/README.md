@@ -1,3 +1,6 @@
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+
 # Aplicaciones Básicas con Interfaz Gráfica en Java
 
 Este proyecto forma parte de mi repositorio universitario y contiene una variedad de ejercicios y ejemplos de aplicaciones con interfaz gráfica desarrollados en Java utilizando Swing.
@@ -9,15 +12,16 @@ Este proyecto forma parte de mi repositorio universitario y contiene una varieda
 - **cw00_classrelationships** a **cw08_levelsofsatisfaction**: Trabajos en clase
 - **sc01** a **sc03**: Ejemplos de pantallas
 
-## 🚀 Cómo ejecutar
+## Instalación
 
-1. Clonar todo el repositorio:
+1. Clona el repositorio:
    ```bash
    git clone https://github.com/stiiven19/universidad.git
    cd universidad/Java/Talleres/B-BasicGUIApplications
    ```
-   
-2. Compila y ejecuta los archivos Java usando tu IDE favorito o desde la línea de comandos.
+
+2. Abre el proyecto en NetBeans
+
 
 ## 🛠 Tecnologías Utilizadas
 
@@ -25,17 +29,6 @@ Este proyecto forma parte de mi repositorio universitario y contiene una varieda
 - Swing (GUI)
 - Maven (gestión de dependencias)
 
-## 📝 Notas
 
-- Cada carpeta contiene un ejercicio o tarea independiente
-- Los ejercicios están organizados en orden de dificultad
-- Se recomienda usar un IDE como Eclipse o IntelliJ IDEA
-
-## 📧 Contacto
-[steven guerrero](mailto:stiiven19lol@gmail.com) - [GitHub](https://github.com/stiiven19)
-
----
-
-<div align="center">
-  Hecho para el curso de Programación
-</div>
+## Desarrollado por
+Steven Guerrero - Ingeniero de sistemas

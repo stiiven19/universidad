@@ -1,3 +1,6 @@
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+
 # Aplicaciones Generales con Interfaz Gráfica en Java
 
 Este proyecto contiene una variedad de aplicaciones generales con interfaz gráfica desarrolladas en Java, incluyendo herramientas de dibujo, aplicaciones bancarias y más.
@@ -11,14 +14,13 @@ Este proyecto contiene una variedad de aplicaciones generales con interfaz gráf
 - **cw05_morewidgets**: Demostración de widgets avanzados
 - **cw06_bank**: Aplicación de banco con interfaz gráfica
 
-## 🚀 Cómo ejecutar
+## Instalación
 
 1. Clona el repositorio principal:
    ```bash
    git clone https://github.com/stiiven19/universidad.git
    cd universidad/Java/Talleres/D-GeneralApplications
    ```
-
 
 ## 🛠 Tecnologías Utilizadas
 
@@ -38,11 +40,6 @@ Este proyecto contiene una variedad de aplicaciones generales con interfaz gráf
 
 Cada carpeta contiene su propio README con instrucciones específicas de cada aplicación.
 
-## 📧 Contacto
-[steven guerrero](mailto:stiiven19lol@gmail.com) - [GitHub](https://github.com/stiiven19)
+## Desarrollado por
+Steven Guerrero - Ingeniero de sistemas
 
----
-
-<div align="center">
-  Hecho para el curso de Programación
-</div>

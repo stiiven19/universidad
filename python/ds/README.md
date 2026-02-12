@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GTK](https://img.shields.io/badge/GTK-404137?style=for-the-badge&logo=gnome&logoColor=white)
+
 # Estructuras de Datos y Proyectos Python
 
 Este repositorio contiene implementaciones de estructuras de datos clásicas en Python y dos aplicaciones con interfaz gráfica:
@@ -20,6 +23,16 @@ Las implementaciones se encuentran en la carpeta `adt/`.
 - **Colas (Queue)**: Estructura FIFO.
 - **Árboles**: Inserción, búsqueda, recorrido, altura, nodos internos y hojas.
 - **Grafos**: Inserción de nodos/aristas, búsqueda de caminos mínimos (Floyd).
+
+## Instalación
+
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/stiiven19/universidad.git
+   cd universidad/python/ds
+   ```
+
+2. Abre el proyecto en tu IDE preferido
 
 ## Proyectos con interfaz gráfica
 
@@ -108,6 +121,5 @@ ads/
 - Python 3.7+
 - Para interfaces gráficas: GTK 3 + PyGObject y/o Tkinter
 
----
-
-¿Dudas o sugerencias? ¡Abre un issue o contacta al autor.
+## Desarrollado por
+Steven Guerrero - Ingeniero de sistemas

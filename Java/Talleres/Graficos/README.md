@@ -1,3 +1,6 @@
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+
 # 🎨 Proyecto de Gráficos por Computadora
 
 Este proyecto implementa un sistema de gráficos 2D desde cero en Java, comenzando con operaciones básicas de píxeles hasta formas geométricas complejas. Es una herramienta educativa que demuestra los algoritmos fundamentales de gráficos por computadora.
@@ -35,20 +38,15 @@ src/Graficos/
 - IDE compatible con Java (Eclipse, IntelliJ, VS Code, etc.)
 - Maven (para la gestión de dependencias, si se agregan en el futuro)
 
-## 🚀 Cómo Ejecutar
+## Instalación
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/graficos.git
-   cd graficos
+   git clone https://github.com/stiiven19/universidad.git
+   cd universidad/Java/Graficos
    ```
 
-2. Abre el proyecto en tu IDE preferido
-
-3. Ejecuta la clase principal:
-   ```
-   Graficos.FrameShapes
-   ```
+2. Abre el proyecto en NetBeans
 
 ## 🎯 Uso Básico
 
@@ -77,22 +75,5 @@ src/Graficos/
 - **Formas Específicas**: Heredan de `Shape` e implementan `paintComponent`
 - **DrawingPanel**: Maneja la interacción del usuario y el dibujo
 
-## 📝 Notas de Desarrollo
-
-- El proyecto está diseñado con fines educativos
-- El código incluye comentarios explicativos
-- Fácil de extender con nuevas formas y algoritmos
-
-## 🤝 Contribuir
-
-Las contribuciones son bienvenidas. Por favor, crea un issue para discutir los cambios propuestos antes de hacer un pull request.
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más información.
-
----
-
-<div align="center">
-  Desarrollado para el curso de programacion
-</div>
+## Desarrollado por
+Steven Guerrero - Ingeniero de sistemas

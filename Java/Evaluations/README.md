@@ -1,3 +1,6 @@
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+
 # Evaluations
 
 Este proyecto contiene implementaciones de componentes de interfaz gráfica en Java, incluyendo una herramienta de selección de cuadrícula personalizable, un diseño de ojos que siguen el cursor y otras aplicaciones gráficas.
@@ -44,6 +47,16 @@ Este proyecto contiene implementaciones de componentes de interfaz gráfica en J
 - Swing (GUI)
 - Java 2D (para renderizado personalizado)
 
+## Instalación
+
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/stiiven19/universidad.git
+   cd universidad/Java/Evaluations
+   ```
+
+2. Abre el proyecto en NetBeans
+
 ## 📝 Uso Básico
 
 ```java
@@ -59,11 +72,5 @@ frame.pack();
 frame.setVisible(true);
 ```
 
-## 📧 Contacto
-[steven guerrero](mailto:stiiven19lol@gmail.com) - [GitHub](https://github.com/stiiven19)
-
----
-
-<div align="center">
-  Hecho para el curso de Programación
-</div>
+## Desarrollado por
+Steven Guerrero - Ingeniero de sistemas
