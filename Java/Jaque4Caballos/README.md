@@ -1,9 +1,8 @@
-# Jaque 4 Caballos
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![JGraphT](https://img.shields.io/badge/JGraphT-5E2CA5?style=for-the-badge&logo=graph&logoColor=white)
-![GraphStream](https://img.shields.io/badge/GraphStream-00599C?style=for-the-badge&logo=graph&logoColor=white)
+
+# Jaque 4 Caballos
 
 Un programa que simula el movimiento de 4 caballos en un tablero de ajedrez para lograr dar jaque mate al rey en la menor cantidad de movimientos posibles.
 
