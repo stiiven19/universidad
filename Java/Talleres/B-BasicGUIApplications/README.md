@@ -11,6 +11,7 @@ Este proyecto forma parte de mi repositorio universitario y contiene una varieda
 - **Homework_B01** a **Homework_B08**: Talleres de programación con interfaces gráficas
 - **cw00_classrelationships** a **cw08_levelsofsatisfaction**: Trabajos en clase
 - **sc01** a **sc03**: Ejemplos de pantallas
+- **CalcularTriangulo**: Ejemplo de calcular el tipo, area y perimetro de un triangulo ingresando los lados 
 
 ## Instalación
 

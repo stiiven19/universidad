@@ -1,0 +1,25 @@
+# Ignorar la carpeta RedesSemanticas
+Java/RedesSemanticas/
+
+# Ignorar archivos compilados
+*.class
+*.jar
+build/
+dist/
+nbproject/private/
+
+# Ignorar archivos temporales
+*.tmp
+*.log
+*.bak
+*~
+
+# Ignorar archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
